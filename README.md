@@ -1,0 +1,1 @@
+This project was led by Dr. Thomas Hartka at the UVa Department of Emergency Medicine. Dr. Hartka was interested in comparing the accuracy of algorithms for predicting severe injury in older adults for trauma triage.
